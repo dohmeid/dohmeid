@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Doha ^_^</h1>
 <h3 align="center">A passionate computer engineering student from Palestine</h3>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif" />
+
 <P> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dohmeid&label=Profile%20views&color=0e75b6&style=flat" alt="dohmeid" /> </p>
 <p align="left"> </p>
