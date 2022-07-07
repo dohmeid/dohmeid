@@ -35,9 +35,10 @@
 <p align="center">
 <img height="180em" width="425em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=dohmeid&show_icons=true&locale=en&layout=compact&theme=radical" alt="dohmeid" />
 </p>
-
+<p  align="center">
 <img height="180em" width="415em" src="https://github-readme-stats.vercel.app/api?username=dohmeid&show_icons=true&locale=en&theme=radical" alt="dohmeid" />
 <img height="180em" width="415em" src="https://github-readme-streak-stats.herokuapp.com/?user=dohmeid&theme=radical" alt="dohmeid" />
+</p>
 </a>
 
 ![Snake animation](https://github.com/dohmeid/dohmeid/blob/output/github-contribution-grid-snake.svg)
