@@ -43,6 +43,11 @@
 
 ![Snake animation](https://github.com/dohmeid/dohmeid/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F1042&height=120&section=footer"/>
+</p>
+
+
 
 <!--
 <img  alt="sth" src="https://media.giphy.com/media/gHhz5ZqkY8rzyWUiKw/giphy.webp" />
