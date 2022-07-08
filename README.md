@@ -6,7 +6,7 @@
 
 <h2 align="left">Connect With Me Via 💬:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/doha hmeid"> <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/> </a>
+<a href="https://www.linkedin.com/in/dohmeid/"> <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/> </a>
 <a href= "mailto: doha.hmeid@gmail.com" ><img height="50" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-512.png"/> </a>
 </p>
 
