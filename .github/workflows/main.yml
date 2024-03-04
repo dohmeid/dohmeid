@@ -1,7 +1,7 @@
 name: Generate Datas
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -11,8 +11,7 @@ jobs:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
-
-        with:
+with:
           github_user_name: dohmeid
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
