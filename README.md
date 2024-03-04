@@ -35,8 +35,8 @@
 ## Connect With Me Via 💬
 <div align="left">
   <a href="www.linkedin.com/in/dohmeid" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <img width="25"/>
   <a href="doha.hmeid@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="discordapp.com/users/953030181692530729" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /><a>
 </div>
 
 
@@ -62,7 +62,10 @@
 </div>
 
 
-![Snake animation](https://github.com/dohmeid/dohmeid/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  
+  ![Snake animation](https://github.com/dohmeid/dohmeid/blob/output/github-contribution-grid-snake.svg)
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F1042&height=160&section=footer"/>
