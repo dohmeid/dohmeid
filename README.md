@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=HeyEveryone!👋&fontColor=F0F3F4&animation=fadeIn&type=waving&color=6F1042&height=200"/>
   <h2 align="center">I'm Doha, a Passionate Software Engineer from Palestine</h2>
   <p align="center"> <img  alt="sth" src="https://i.pinimg.com/originals/3e/c4/37/3ec43786b484c617a1ba4ea7945ec9bd.gif" /> </p>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dohmeid&label=Profile%20views&color=6F1042&style=flat" alt="dohmeid" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dohmeid&label=Profile%20views&color=6F1042&style=flat" width=130px alt="dohmeid" /> </p>
 </div>
 
 ## Tech Stack 💻
@@ -43,7 +43,7 @@
 
 ## My GitHub Stats 📈
 <a href="https://github.com/dohmeid">
-  <p align="center"><img height="180em" width="425em"  src="https://github-readmestats.vercel.app/api/toplangsusername=dohmeid&show_icons=true&locale=en&layout=compact&theme=radical" alt="dohmeid" /></p>
+  <p align="center"><img height="180em" width="800em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohmeid&theme=radical&show_icons=true&layout=compact&langs_count=10" alt="dohmeid" /></p>
   <p  align="center">
     <img height="180em" width="415em" src="https://github-readme-stats.vercel.app/api?username=dohmeid&show_icons=true&locale=en&theme=radical" alt="dohmeid" />
     <img height="180em" width="415em" src="https://github-readme-streak-stats.herokuapp.com/?user=dohmeid&theme=radical" alt="dohmeid" />
@@ -55,7 +55,6 @@
 <div align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dohmeid"  alt="dohmeid"/></a> 
 </div>
-
 
 ## Top Contributed Repo 🔝
 <div align="center"> 
