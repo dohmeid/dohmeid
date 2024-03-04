@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=HeyEveryone!👋&fontColor=F0F3F4&animation=fadeIn&type=waving&color=6F1042&height=150"/>
+  <img src="https://capsule-render.vercel.app/api?text=HeyEveryone!👋&fontColor=F0F3F4&animation=fadeIn&type=waving&color=6F1042&height=200"/>
   <h2 align="center">I'm Doha, a Passionate Software Engineer from Palestine</h2>
   <p align="center"> <img  alt="sth" src="https://i.pinimg.com/originals/3e/c4/37/3ec43786b484c617a1ba4ea7945ec9bd.gif" /> </p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=dohmeid&label=Profile%20views&color=6F1042&style=flat" alt="dohmeid" /> </p>
@@ -67,7 +67,7 @@
 ![Snake animation](https://github.com/dohmeid/dohmeid/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F1042&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F1042&height=160&section=footer"/>
 </p>
 
 <!--
